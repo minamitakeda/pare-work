@@ -2,6 +2,7 @@ package com.example.domain;
 
 public class Car {
 
+
 	private String name3;
 	private int speed;
 
@@ -19,5 +20,6 @@ public class Car {
 
 	public void setName(String name) {
 		this.name3 = name;
+
 	}
-}
+	}
