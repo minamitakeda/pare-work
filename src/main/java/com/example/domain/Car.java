@@ -2,7 +2,8 @@ package com.example.domain;
 
 public class Car {
 
-	private String name2;
+
+	private String name3;
 	private int speed;
 
 	public int getSpeed() {
@@ -14,10 +15,11 @@ public class Car {
 	}
 
 	public String getName() {
-		return name2;
+		return name3;
 	}
 
 	public void setName(String name) {
-		this.name2 = name;
+		this.name3 = name;
+
 	}
-}
+	}
